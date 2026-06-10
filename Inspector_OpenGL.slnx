@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Inspector_OpenGL/Inspector_OpenGL.vcxproj" Id="4f4f63a0-2777-484a-81d1-4ca33e7da20c">
+    <Platform Solution="Debug|x64" Project="Win32" />
+  </Project>
+</Solution>
